@@ -33,8 +33,8 @@ After completing this assignment, you be able to effectively use
 ## Normal Mode
 
 1. Import the librarybooks.csv (librarybooks.csv) file into your database.
-2. Analyze the data and draw out a diagram of the table structures that you will need.
-3. Create the tables in sql to match your diagram
+2. Analyze the imported data and design a new database that will hold this same information into seperate tables (i.e. Nomarilzation)
+3. Create the tables in your database using sql to match your diagram
 4. Create queries to populate your tables from the librarybooks.csv table that you imported
 5. Answer the following questions:
   1. How many books are there total in the library?
