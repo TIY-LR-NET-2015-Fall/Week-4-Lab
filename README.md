@@ -38,12 +38,12 @@ After completing this assignment, you be able to effectively use
 4. Create queries to populate your tables from the librarybooks.csv table that you imported
 5. Answer the following questions:
   1. How many books are there total in the library?
-  2. How many books are currently checked out?
+  2. Which books are currently checked out?
   3. How many students are there?
-  4. How many books are there in each category?
+  4. How many books are in each category?
   5. How many books are checked out by category?
-  6. How many books will be returned in December?
-  7. How many books are missing authors?
+  6. Which books will be returned in December?
+  7. Which books are missing authors?
  
 
 ## Hard Mode
